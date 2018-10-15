@@ -1,4 +1,5 @@
 html{
   background-color: #ffe500
+  font-family: Georgia
 
 }
